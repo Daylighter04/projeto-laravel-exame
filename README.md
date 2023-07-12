@@ -7,8 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Vídeo do Projeto
-**   **
-
-##Documentação Postman
+Documentação Postman
 **https://documenter.getpostman.com/view/27588479/2s946chF9R**
